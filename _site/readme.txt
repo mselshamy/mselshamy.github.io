@@ -57,7 +57,7 @@ the crediting obligation. If that's your case, you can always send us a
 credit removal fee of 10 USD through Paypal. This will allow you to use a single 
 template attribution/credit link free on ONE DOMAIN name.
 
-You can send your payments through Paypal to this address: ealigam@gmail.com or
+You can send your payments through Paypal to this address: mselshamy001@gmail.com or
 visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
 and click the pay button on the page.
 
