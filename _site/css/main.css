@@ -123,7 +123,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #544d9d;
+  color: #0c0d1d;
 }
 
 a:hover,
@@ -1534,7 +1534,7 @@ input::-moz-focus-inner {
 .right-vert-line {
   width: 2px;
   height: 20rem;
-  background-color: #302c59;
+  background-color: #f9861a;
   -webkit-transform: translate3d(50%, 0, 0);
   transform: translate3d(50%, 0, 0);
   position: absolute;
@@ -2448,7 +2448,7 @@ html.no-csstransitions .hero-content {
 }
 
 .s-about .right-vert-line {
-  background-color: #302c59;
+  background-color: #f9861a;
 }
 
 .s-about__section--profile {
@@ -2610,7 +2610,7 @@ html.no-csstransitions .hero-content {
 .s-services {
   padding-top: 24rem;
   padding-bottom: 20rem;
-  background-color: #1d1b37;
+  background-color: #0c0d1d;
   position: relative;
 }
 
@@ -3256,9 +3256,9 @@ html.no-csstransitions .hero-content {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-  padding-top: 15rem;
+  padding-top: 13rem;
   padding-bottom: 8rem;
-  background-color: #0b0a15;
+  background-color: #0c0d1d;
   position: relative;
 }
 
