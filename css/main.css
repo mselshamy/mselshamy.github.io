@@ -1474,7 +1474,7 @@ input::-moz-focus-inner {
 }
 
 .subhead {
-  font-size: 1.4rem;
+  font-size: 5rem;
   line-height: 1.286;
   text-transform: uppercase;
   letter-spacing: .4em;
@@ -2053,6 +2053,16 @@ input::-moz-focus-inner {
   position: relative;
 }
 
+.hero-content h2 {
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 1.257;
+  padding-right: 3.2rem;
+  margin-top: 0;
+  color: #ffffff;
+  position: relative;
+}
+
 .hero-content h1::before {
   content: "";
   display: block;
@@ -2452,7 +2462,7 @@ html.no-csstransitions .hero-content {
 }
 
 .s-about__section--profile {
-  padding-top: 28rem;
+  padding-top: 20rem;
   padding-bottom: 4rem;
   min-height: 108rem;
   position: relative;
