@@ -1642,7 +1642,7 @@ input::-moz-focus-inner {
 }
 
 .s-header.sticky {
-  background-color: #050505;
+  background-color: #0b0a15;
   opacity: 0;
   visibility: hidden;
   position: fixed;
@@ -3389,7 +3389,7 @@ html.no-csstransitions .hero-content {
   height: 6.4rem;
   width: 6.4rem;
   border-radius: 50%;
-  background-color: #000000;
+  background-color: #0b0a15;
   -webkit-transition: all .3s;
   transition: all .3s;
   position: relative;
