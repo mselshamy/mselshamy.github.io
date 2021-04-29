@@ -2471,7 +2471,7 @@ html.no-csstransitions .hero-content {
 .s-about__section--profile::before {
   content: "";
   display: block;
-  background-color: #b3c2c1;
+  background-color: #ffffff;
   position: absolute;
   top: 0;
   bottom: 0;
