@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Gothic A1", sans-serif;
   font-weight: 700;
   font-style: normal;
-  color: #000000;
+  color: #f3f3f3;
   -webkit-font-variant-ligatures: common-ligatures;
   font-variant-ligatures: common-ligatures;
   text-rendering: optimizeLegibility;
