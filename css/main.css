@@ -2838,12 +2838,12 @@ html.no-csstransitions .hero-content {
 .s-portfolio::before {
   content: "";
   display: block;
-  background-color: #b3c2c1;
+  background-color: #707070;
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-  left: 50%;
+  left: 0;
 }
 
 /* ------------------------------------------------------------------- 
