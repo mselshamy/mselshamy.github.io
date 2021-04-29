@@ -2831,19 +2831,19 @@ html.no-csstransitions .hero-content {
 .s-portfolio {
   padding-top: 24rem;
   padding-bottom: 0;
-  background-color: #ffffff;
+  background-color: #383838;
   position: relative;
 }
 
 .s-portfolio::before {
   content: "";
   display: block;
-  background-color: #707070;
+  background-color: #ffffff00;
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-  left: 0%;
+  left: 50%;
 }
 
 /* ------------------------------------------------------------------- 
